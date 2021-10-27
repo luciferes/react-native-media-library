@@ -2,7 +2,7 @@ package com.reactnativemedialibrary;
 
 import android.net.Uri;
 import android.provider.MediaStore;
-import android.support.media.ExifInterface;
+import androidx.exifinterface.media.ExifInterface;
 
 import java.util.HashMap;
 import java.util.Map;
